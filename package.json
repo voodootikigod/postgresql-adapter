@@ -1,7 +1,7 @@
 {
   "name": "voodoo-waterline-postgres",
   "description": "PostgreSQL Adapter for Sails and Waterline",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Travis Webb <tjwebb@balderdash.io>",
   "url": "http://github.com/voodootikigod/postgresql-adapter",
   "keywords": [
